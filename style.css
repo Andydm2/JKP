@@ -1,0 +1,40 @@
+body
+{
+    background-image: linear-gradient(purple,green);
+    /* this mix two colors into one*/
+   text-align: center;
+   /* this place all text on center of the page*/
+ text-transform: uppercase;
+ /* this makes all letter uppercase*/
+
+}
+button
+{
+    background-color: rgb(100, 150, 204);
+    /* this is the buuton's background color*/
+    color: rgb(220, 187, 40);
+    /* this is button's color*/
+    border-radius: 50px;
+    /* this shapes the button*/
+    border-color: rgb(156, 208, 144);
+    /*this gives a color to the borders of the button*/
+   
+}
+p {
+    color: rgb(76, 166, 58)
+    /* this gives text a color*/
+    
+}
+.text {
+    position: absolute;
+    /* this place a permanent possition for the text*/
+    top: 100px;
+    /*this determine where is it place on the screen*/
+   color: aliceblue;
+   /* this gives a color to the text*/
+}
+
+
+
+
+
